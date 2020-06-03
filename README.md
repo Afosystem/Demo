@@ -1,2 +1,2 @@
 # Demo
-This is my first assignment on Git. Its interesting doing this.
+This is my first assignment on Git. It's interesting doing this.
